@@ -4,4 +4,4 @@
 3. 장바구니에 담긴 상품들을 드라이브스루로 가져갈 수 있게 신청하는 기능
 4. 신제품 시식을 신청하고 후기를 남기는 기능
 
-[LOTTE OFF 보러가기!](https://quiet-island-24294.herokuapp.com/)  
+[LOTTE OFF 보러가기!](https://quiet-island-24294.herokuapp.com/)  (현재 상품 사진은 나오지 않음)
